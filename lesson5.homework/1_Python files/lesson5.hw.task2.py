@@ -8,7 +8,6 @@ file_name = 'onegin.txt'
 
 num_lines = 0
 num_words = 0
-num_chars = 0
 
 with open(file_name) as f:
     for line in f:
