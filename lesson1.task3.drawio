@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T16:47:05.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.9.6" etag="R-LjnroFWPiqr5GtB0gV" type="github"><diagram id="HWKfx65y3r2VVXQUXC9b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-17T16:54:24.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="m4icY7sRI6rY0iq7DjKM" version="14.9.6" type="github">
+  <diagram id="HWKfx65y3r2VVXQUXC9b" name="Page-1">
+    <mxGraphModel dx="786" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69-ctKiakFXgsIV-ce_q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69-ctKiakFXgsIV-ce_q-1" target="69-ctKiakFXgsIV-ce_q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-1" value="НАЧАЛО" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-2" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69-ctKiakFXgsIV-ce_q-3" target="69-ctKiakFXgsIV-ce_q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-3" value="A(x; y)&lt;br&gt;B(x; y)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69-ctKiakFXgsIV-ce_q-4" target="69-ctKiakFXgsIV-ce_q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-4" value="k = (y_A - y_B) / (x_A - x_B)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="380" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69-ctKiakFXgsIV-ce_q-7" target="69-ctKiakFXgsIV-ce_q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-7" value="b = y_B - k * x_B" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="495" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69-ctKiakFXgsIV-ce_q-8" target="69-ctKiakFXgsIV-ce_q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69-ctKiakFXgsIV-ce_q-8" value="y = k * x + b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="610" width="205" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
