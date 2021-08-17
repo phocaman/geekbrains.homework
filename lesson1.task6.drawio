@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2021-08-17T20:58:38.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ArZ3rIerBA8bekbO80k_" version="14.9.6" type="github">
+  <diagram id="yhuU-cknCsUTqk2s7Aul" name="Page-1">
+    <mxGraphModel dx="786" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQaY1QQyoAkbrNFbYjhM-1" target="MQaY1QQyoAkbrNFbYjhM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-1" value="&amp;nbsp;НАЧАЛО" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="246" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQaY1QQyoAkbrNFbYjhM-2" target="MQaY1QQyoAkbrNFbYjhM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-2" value="a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="160" width="261" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQaY1QQyoAkbrNFbYjhM-3" target="MQaY1QQyoAkbrNFbYjhM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-3" value="import&lt;br&gt;&lt;b&gt;string&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="270" width="256.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQaY1QQyoAkbrNFbYjhM-4" target="MQaY1QQyoAkbrNFbYjhM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-4" value="letters = string.ascii_lowercase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="380" width="256.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQaY1QQyoAkbrNFbYjhM-5" target="MQaY1QQyoAkbrNFbYjhM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-5" value="letters[a - 1]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="490" width="256.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQaY1QQyoAkbrNFbYjhM-6" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.75" y="600" width="246" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
